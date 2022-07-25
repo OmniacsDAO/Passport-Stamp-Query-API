@@ -16,3 +16,4 @@ NodeJS API to interact with Gitcoin Passport Data<br>
 
 <hr>
 <img src="man/figures/screen.png"  align="center"/>
+<img src="man/figures/sample_output.png"  align="center"/>
