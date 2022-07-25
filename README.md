@@ -13,3 +13,6 @@ NodeJS API to interact with Gitcoin Passport Data<br>
 - Run `./install.sh`
 - Start the API using `./startAPI.sh`
 - Test the API by visiting `http://127.0.0.1:3000/verify?address=<<your address here>>`
+
+<hr>
+<img src="man/figures/screen.png"  align="center"/>
