@@ -14,7 +14,7 @@ async function verify(add,node) {
 app.get("/verify", async (req, res) => {
     var address = req.query.address;
     var node = req.query.node || 'https://ceramic-clay.3boxlabs.com';
-    const result = await verify();
+    const result = await verify(address,node);
     res.json(result)
 });
 
